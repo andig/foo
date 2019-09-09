@@ -3,6 +3,6 @@ package foo
 type Foo struct {
 }
 
-func (f *Foo) V1() {
-	println("V1")
+func (f *Foo) V2() {
+	println("V2")
 }
